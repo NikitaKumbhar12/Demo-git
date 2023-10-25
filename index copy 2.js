@@ -1,1 +1,1 @@
-console.log('wassup 3 main')
+console.log('wassup 3')
